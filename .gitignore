@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# # Generated data — reproduce with: python generate_samples.py
+# samples.json
+# *.json
+
+# Tools
+.claude/
+.idea/
+.vscode/
+*.swp
+*~
+
+# Misc
+Untitled
