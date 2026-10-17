@@ -1,0 +1,6 @@
+Pillow
+Faker
+reportlab
+numpy
+python-barcode[images]
+qrcode[pil]
